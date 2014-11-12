@@ -1,0 +1,1 @@
+ 1NUMqValue|数量值,amount|多少,cardinal|基
